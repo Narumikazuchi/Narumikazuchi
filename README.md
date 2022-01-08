@@ -1,7 +1,7 @@
 <h1 align="center">Greetings traveler!</h1>
   
 A self taught programmer who focuses on Windows applications.  
-I have developed tools, automated procedures, SQL databases and user interfaces for those databases.  
+I have developed tools, automated procedures, and SQL databases (including user interfaces for those databases).  
 My experience in various programming languages:  
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio-10%20years-7f4ad5" />
@@ -51,17 +51,17 @@ My experience in various programming languages:
   
 <h1 align="center">More about myself</h1>
 <p>
-I really enjoy the process of problem solving. Most of my projects are actually solutions to problems I encountered. I was for example dissatisfied with the functionality of the windows file explorer, so I created my own. Almost every project I made for myself has such a root. There are also projects where I'm just interested in the way the problem is solved. I've worked for a university until recently and am therefore also quite familiar with SQL and the possibilities to connect to a SQL server via C#.
+I really enjoy the process of problem solving. Most of my personal programming solutions stem from either problems I encountered or from features I was missing in other applications. I was for example dissatisfied with the functionality of the windows file explorer, so I created my own. Most of my personal projects had similar roots. There are also projects where I'm just interested in the way the problem is solved. I've worked for a university until recently and am therefore also quite familiar with SQL and the possibilities to connect to a SQL server via C#.
 </p>
 <p>
 Not too long ago I started to learn C++ to expand my horizon. My first project has been a plugin for the so called 'BAKKES MOD', which is a mod for the game 'Rocket League'. I plan to further my research and improve my understanding of the language and it's perks.
 </p>
 <p>
-- 🔭 I’m currently working on ... updating my utility libraries to .NET 6<br />
-- 🌱 I’m currently learning ... C++<br />
-- 💬 Ask me about ... anything related to C# or WPF<br />
-- 📫 How to reach me: ... Discord Narumikazuchi#3333<br />
-- ⚡ Fun fact: ... I started learning programming by tweaking scripts in the editor for a game called 'Clonk Rage', where the language used resembles C<br />
+- 🔭 I’m currently working on updating my utility libraries to .NET 6<br />
+- 🌱 I’m currently learning C++<br />
+- 💬 Ask me about anything related to C# or WPF<br />
+- 📫 How to reach me: Discord Narumikazuchi#3333<br />
+- ⚡ Fun fact: I started learning programming by tweaking scripts in the editor for a game called 'Clonk Rage', where the language used resembles C<br />
 </p>  
   
 ---
