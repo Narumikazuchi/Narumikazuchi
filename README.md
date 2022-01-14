@@ -30,6 +30,9 @@ My experience in various programming languages:
   <a href="https://github.com/Narumikazuchi/Common">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narumikazuchi&repo=common&theme=tokyonight" />
   </a>
+  <a href="https://github.com/Narumikazuchi/Collections_Abstract">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narumikazuchi&repo=collections_abstract&theme=tokyonight" />
+  </a>
   <a href="https://github.com/Narumikazuchi/Collections">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narumikazuchi&repo=collections&theme=tokyonight" />
   </a>
@@ -41,6 +44,9 @@ My experience in various programming languages:
   </a>
   <a href="https://github.com/Narumikazuchi/Serialization">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narumikazuchi&repo=serialization&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Narumikazuchi/Serialization_Bytes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narumikazuchi&repo=serialization_bytes&theme=tokyonight" />
   </a>
   <a href="https://github.com/Narumikazuchi/Windows">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narumikazuchi&repo=windows&theme=tokyonight" />
