@@ -63,8 +63,8 @@ I really enjoy the process of problem solving. Most of my personal programming s
 Not too long ago I started to learn C++ to expand my horizon. My first project has been a plugin for the so called 'BAKKES MOD', which is a mod for the game 'Rocket League'. I plan to further my research and improve my understanding of the language and it's perks.
 </p>
 <p>
-- 🔭 I’m currently working on updating my utility libraries to .NET 6<br />
-- 🌱 I’m currently learning C++<br />
+- 🔭 I’m currently working on updating my utility libraries to .NET 6, writing an extendible toolbox application, writing a knowledge base application and designing my own programming language specification.<br />
+- 🌱 I’m currently learning C++ and LLVM.<br />
 - 💬 Ask me about anything related to C# or WPF<br />
 - 📫 How to reach me: Discord Narumikazuchi#3333<br />
 - ⚡ Fun fact: I started learning programming by tweaking scripts in the editor for a game called 'Clonk Rage', where the language used resembles C<br />
