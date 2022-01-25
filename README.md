@@ -2,7 +2,7 @@
   
 A self taught programmer who focuses on Windows applications.  
 I have developed tools, automated procedures, and SQL databases (including user interfaces for those databases).  
-My experience in various programming languages:  
+My experience in various programming languages and tools:  
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio-10%20years-7f4ad5" />
   <img src="https://img.shields.io/badge/C%23-10%20years-178600" />
