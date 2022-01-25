@@ -10,10 +10,13 @@ My experience in various programming languages and tools:
   <img src="https://img.shields.io/badge/WPF%20and%20XAML-6%20years-178600" />
   <img src="https://img.shields.io/badge/C%2B%2B-1%20year-f34b7d" />
   <img src="https://img.shields.io/badge/Java-1%20year-b07219" />
+  <img src="https://img.shields.io/badge/SQL-3%20years-2360ba" />
+  <img src="https://img.shields.io/badge/VBA-3%20years-867db1" />
   <img src="https://img.shields.io/badge/HTML-5%20years-e34c26" />
   <img src="https://img.shields.io/badge/CSS-5%20years-563d7c" />
   <img src="https://img.shields.io/badge/Javascript-5%20years-f1e05a" />
   <img src="https://img.shields.io/badge/PHP-3%20years-4f5d95" />
+  <img src="https://img.shields.io/badge/Git-1%20year-ba234e" />
 </p>  
 
 ---
