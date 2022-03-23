@@ -33,8 +33,8 @@ My experience in various programming languages and tools:
   <a href="https://github.com/Narumikazuchi/Common">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narumikazuchi&repo=common&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Narumikazuchi/Collections_Abstract">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narumikazuchi&repo=collections_abstract&theme=tokyonight" />
+  <a href="https://github.com/Narumikazuchi/Collections.Abstract">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narumikazuchi&repo=collections.abstract&theme=tokyonight" />
   </a>
   <a href="https://github.com/Narumikazuchi/Collections">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narumikazuchi&repo=collections&theme=tokyonight" />
@@ -45,14 +45,20 @@ My experience in various programming languages and tools:
   <a href="https://github.com/Narumikazuchi/Networking">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narumikazuchi&repo=networking&theme=tokyonight" />
   </a>
+  <a href="https://github.com/Narumikazuchi/Networking.Sockets">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narumikazuchi&repo=networking.sockets&theme=tokyonight" />
+  </a>
   <a href="https://github.com/Narumikazuchi/Serialization">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narumikazuchi&repo=serialization&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Narumikazuchi/Serialization_Bytes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narumikazuchi&repo=serialization_bytes&theme=tokyonight" />
+  <a href="https://github.com/Narumikazuchi/Serialization.Bytes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narumikazuchi&repo=serialization.bytes&theme=tokyonight" />
   </a>
   <a href="https://github.com/Narumikazuchi/Windows">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narumikazuchi&repo=windows&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Narumikazuchi/Windows.Pipes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narumikazuchi&repo=windows.pipes&theme=tokyonight" />
   </a>
 </p>  
 
