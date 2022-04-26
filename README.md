@@ -33,9 +33,6 @@ My experience in various programming languages and tools:
   <a href="https://github.com/Narumikazuchi/Common">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narumikazuchi&repo=common&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Narumikazuchi/Collections.Abstract">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narumikazuchi&repo=collections.abstract&theme=tokyonight" />
-  </a>
   <a href="https://github.com/Narumikazuchi/Collections">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narumikazuchi&repo=collections&theme=tokyonight" />
   </a>
