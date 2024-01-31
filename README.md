@@ -34,4 +34,5 @@ Not too long ago I started to learn C++ to expand my horizon. My first project h
 </p>
 <p>
 How to reach me: Discord Narumikazuchi#3333<br />
+Github Member since 29.01.2021.
 </p>  
