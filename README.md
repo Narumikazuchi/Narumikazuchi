@@ -1,7 +1,7 @@
 <h1 align="center">Greetings traveler!</h1>
   
 I taught myself programming relatively early on in my life. I was fascinated by the things I could create by writing just some words and numbers. Over the years I have developed simple mods for games, tools, automated procedures, and worked with SQL databases.  
-I am most proficient in programming APIs and libraries or packages. However I am not really talented in creating any form of UI/UX. But I could still collect some experience in those fields due to my job career, being a programmer at a university for 2 years and currently working in a software company creating mostly web applications.  
+I am most proficient in programming APIs and libraries or packages. However I am not really talented in creating any form of UI/UX. But I could still collect some experience in those fields due to my job career, being a programmer at a university for 2 years as well as working in a software company creating mostly web applications for 2 years.  
 I am constantly interested in the newest technologies, like the newest iterations of the .NET Core Framework or machine learning/AI.  
 My experience in various programming languages and tools can be roughly seen here:  
 <p align="center">
